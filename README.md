@@ -1,5 +1,5 @@
 # 💫 About Me:
-:telescope:I'm currently working on UI frameworks<br>:seedling:I'm currently learning ReactJS.<br>:speech_balloon:Ask me about java and UI stuff.
+:telescope:I'm currently working on UI frameworks<br>:seedling:I'm currently learning Flutter.<br>
 
 
 ## 🌐 Socials:
